@@ -6,9 +6,9 @@
   <a href="https://mentorai.top/"><img alt="在线刷题 · mentorai.top" src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E5%88%B7%E9%A2%98-mentorai.top-087f70?style=for-the-badge"></a>
 </p>
 
-题库免费，练习页面无广告。打开网站即可试做并查看解析。免登录可先练 5 题，遇到末组双空题可做完整组。登录后可保存体验作答，继续正式章节练习与案例作答，并在不同设备同步错题和进度。
+题库免费，练习页面无广告。打开网站即可免登录做章节选择题和每日练习，提交后查看解析。案例可先浏览，提交作答时需要登录。登录后可跨设备同步学习进度和错题。
 
-[免登录刷题体验](https://mentorai.top/practice/experience/) · [浏览已开放章节和案例](https://mentorai.top/chapters/)
+[免费刷题，浏览已开放章节与案例](https://mentorai.top/)
 
 ## 练习方式
 
@@ -42,10 +42,10 @@
 
 | 章节练习 | 案例分析 |
 | --- | --- |
-| ![章节练习预览占位](assets/chapter-practice.png) | ![案例分析预览占位](assets/case-practice.png) |
+| [![章节练习预览占位](assets/chapter-practice.png)](https://mentorai.top/) | [![案例分析预览占位](assets/case-practice.png)](https://mentorai.top/) |
 
 ## 反馈与更新
 
 - 发现题目、答案或解析有问题，可在站内练习页点击 **题目纠错**，反馈会自动带上题号和题版。
-- 遇到访问、登录或使用问题，可通过 [联系站长](https://mentorai.top/?contact=experience) 留言。
-- 新增章节和功能可在网站顶部的 **更新日志** 查看。此展示页的更新方法见 [维护说明](MAINTAINING.md)。
+- 遇到访问、登录或使用问题，可在网站的账号设置中选择 **联系站长**。
+- 新增章节和功能可在网站顶部的 **更新日志** 查看。
